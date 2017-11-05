@@ -3,7 +3,7 @@
 Tool: QuickNAT: Segmenting MRI Neuroanatomy in 20 seconds
 
 Authors: Abhijit Guha Roy, Sailesh Conjeti, Nassir Navab and Christian Wachinger
-
+LMU, Munich
 Prerequisits:
 
 1. A nvidia GPU with cuda compatibility
